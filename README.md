@@ -1,1 +1,0 @@
-# Apple-Quality-prediction-using-KNN-
